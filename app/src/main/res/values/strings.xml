@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mqtt Service Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
